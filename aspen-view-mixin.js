@@ -3,7 +3,7 @@
  * @polymerMixin
  * @mixinFunction
  */
-const AspViewMixin = (superclass) => class extends superclass {
+const AspenViewMixin = (superclass) => class extends superclass {
   static get properties() {
     return {
       /** An array of objects to be displayed. */
